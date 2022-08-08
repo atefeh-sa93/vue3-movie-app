@@ -1,5 +1,11 @@
 # vue3-movie-app
 
+## Project Description
+This is a small movie-app project that shows you searched movies with some information, and if you click on each card you can see more information.
+
+I developed this page with pure CSS  and Vue3.
+
+
 ## Project setup
 ```
 npm install
